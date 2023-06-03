@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "http://RostTrukhum.github.io/OpenChatFE",
+  "homepage": "https://rosttrukhum.github.io/OpenChatFE/",
   "private": true,
   "dependencies": {
     "@socket.io/component-emitter": "^4.0.0",
