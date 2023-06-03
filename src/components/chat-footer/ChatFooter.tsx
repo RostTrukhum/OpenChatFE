@@ -25,7 +25,7 @@ export const ChatFooter = ({ socket }: ISocket) => {
     if (!message) {
       socket.emit('typing', ``);
     }
-  }, [message]);
+  }, [message, socket]);
 
   return (
     <div className="chat__footer">
