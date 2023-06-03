@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/OpenChatFE/static/css/main.724e41db.css",
-    "main.js": "/OpenChatFE/static/js/main.07251704.js",
-    "index.html": "/OpenChatFE/index.html",
-    "main.724e41db.css.map": "/OpenChatFE/static/css/main.724e41db.css.map",
-    "main.07251704.js.map": "/OpenChatFE/static/js/main.07251704.js.map"
+    "main.css": "/open-chat/static/css/main.724e41db.css",
+    "main.js": "/open-chat/static/js/main.0a9e907a.js",
+    "index.html": "/open-chat/index.html",
+    "main.724e41db.css.map": "/open-chat/static/css/main.724e41db.css.map",
+    "main.0a9e907a.js.map": "/open-chat/static/js/main.0a9e907a.js.map"
   },
   "entrypoints": [
     "static/css/main.724e41db.css",
-    "static/js/main.07251704.js"
+    "static/js/main.0a9e907a.js"
   ]
 }
