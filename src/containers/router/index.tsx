@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Routes, Route, HashRouter } from 'react-router-dom';
 import { Home } from '../home/Home';
 import * as io from 'socket.io-client';
 import { ChatPage } from '../chat-page/ChatPage';
@@ -18,7 +18,7 @@ export const Router = () => {
   });
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div>
         <Routes>
           <Route
@@ -41,6 +41,6 @@ export const Router = () => {
             }></Route>
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
